@@ -6,8 +6,8 @@ Graphical User Interface (GUI) to integrate and utilize Ollama and various open 
 **Dependencies**
 ---------------
 
-* `ollama` library (version 1.x or higher)
-* `gradio` library (version 3.x or higher)
+* `ollama` library 
+* `gradio` library 
 
 **Installation**
 ---------------
